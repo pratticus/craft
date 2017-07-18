@@ -30,5 +30,5 @@ return array(
     'user' => 'craftgod',
     'password' => '6014Pasco**',
   )
-);
+); 
 
